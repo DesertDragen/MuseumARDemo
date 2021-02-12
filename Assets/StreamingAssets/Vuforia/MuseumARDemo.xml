@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="leptospirosis" size="0.150000 0.113660" />
+    <ImageTarget name="sharedNobelPeacePrize" size="0.140000 0.105000" />
+    <ImageTarget name="dengueFever" size="0.160000 0.085714" />
+    <ImageTarget name="bauxite" size="0.050000 0.050000" />
+    <ImageTarget name="jamaicanDairy" size="0.160000 0.120000" />
+    <ImageTarget name="africanPerch" size="0.100000 0.074800" />
+    <ImageTarget name="hubbleSpaceTelescope" size="0.120000 0.090089" />
+  </Tracking>
+</QCARConfig>
