@@ -1,0 +1,15 @@
+build01:
+- On certain images, the transparency makes the image too saturated (the bug and the diagram)
+- The fish model doesn't have a texture on it.
+- The cow is really big.
+- Should probably make the nobel peace prize transparent. Or change the displayed image to something else.
+
+build02:
+- Should adjust the position of the cow.
+- Upgrade the material of the fish (just a simple one colored material).
+- Diagram looks clean and enlarged.
+- The Bug looks normal now.
+- Should make nobel peace prize tranparent.
+
+build03:
+- 
